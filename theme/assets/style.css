@@ -1,0 +1,23 @@
+/* Custom CSS for the Streamlit dashboard */
+body {
+    background-color: #1e1e1e; /* Dark background */
+    color: #ffffff; /* White text */
+}
+
+h1, h2, h3 {
+    color: #00ffcc; /* Tech-themed color */
+}
+
+.sidebar .sidebar-content {
+    background-color: #2e2e2e; /* Sidebar background */
+}
+
+.stButton>button {
+    background-color: #00ffcc; /* Button color */
+    color: #1e1e1e; /* Button text color */
+}
+
+.stSelectbox, .stTextInput {
+    background-color: #2e2e2e; /* Input fields background */
+    color: #ffffff; /* Input fields text color */
+}
